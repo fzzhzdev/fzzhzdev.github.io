@@ -1,10 +1,18 @@
-# jekyllDecent
-[![Build Status](https://travis-ci.org/jwillmer/jekyllDecent.svg?branch=gh-pages)](https://travis-ci.org/jwillmer/jekyllDecent) 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](#license)
-[![Release v1.1.9](https://img.shields.io/badge/release-v1.1.9-blue.svg)](https://github.com/jwillmer/jekyllDecent/releases/tag/1.1.9)
+# Jekyll template
+Light and beautiful blog style template for jekyll
 
-This is a blog template for a static site generator named [Jekyll](https://jekyllrb.com/docs/home/) based on a [Ghost](https://ghost.org) template named [Decent](https://github.com/serenader2014/decent). 
+[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Twitter](https://img.shields.io/badge/Twitter-@slender_rich-blue.svg?style=flat)](https://twitter.com/slender_rich)
 
-Installation instructions, features, previews and more can be found in the **[GitHub generated blog](https://jwillmer.github.io/jekyllDecent)**. This blog is automatically generated out of the source code in the `gh-pages` branch. If you like to see the theme in production have a look at [jwillmer.de](https://jwillmer.de).
+![preview](http://i.imgur.com/UzW9sxd.jpg)
 
-[![](https://raw.githubusercontent.com/jwillmer/jekyllDecent/gh-pages/media/img/2016-06-08-Readme-front-page-previewe.jpg)](https://jwillmer.github.io/jekyllDecent)
+## Demo
+Find a demo [here](http://nikrich.github.io/jekyll-wing-template/#)
+
+## Contributing
+
+1. Clone the repo
+2. Checkout the dev branch ( Do not work directly on master )
+3. Use ```jekyll serve``` to run the project
+4. Make your changes and test
+5. Submit a pull request
